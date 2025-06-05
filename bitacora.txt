@@ -1,0 +1,11 @@
+commit 2fe6b01fff840172b7ed2ae40c90692a0a917e86
+Author: andressvc <jveronc@miumg.edu.gt>
+Date:   Thu Jun 5 11:28:45 2025 -0600
+
+    Script
+
+commit 4951fc74132493b8ba7277472b022134d267d972
+Author: andressvc <jveronc@miumg.edu.gt>
+Date:   Thu Jun 5 11:20:02 2025 -0600
+
+    Examen Final
